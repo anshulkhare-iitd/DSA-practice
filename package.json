@@ -1,0 +1,14 @@
+{
+  "name": "dsa-practice",
+  "version": "0.0.0",
+  "description": "practice for dsa",
+  "author": "Anshul Khare",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.10.5",
+    "typescript": "^5.3.3"
+  },
+  "dependencies": {
+    "ts-node": "^10.9.2"
+  }
+}
